@@ -1,3 +1,5 @@
 my surname is punjabi
 
 my job is automation testing
+
+my salary is 1200000
